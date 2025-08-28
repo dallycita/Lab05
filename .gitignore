@@ -1,0 +1,18 @@
+# Android/Gradle
+*.iml
+.gradle/
+local.properties
+/.idea/
+build/
+app/build/
+.cxx/
+captures/
+.externalNativeBuild/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Asegurar wrapper (necesario)
+!gradle/wrapper/gradle-wrapper.jar
